@@ -1,4 +1,4 @@
-# TurtleCrossingCapstone
+# Snake Game
 
 **What will be made in the end (Click the picture to watch the video):**
 [![](https://github.com/ShiyuFan0820/PythonLearningNote/assets/149340606/5db6a996-cb48-43a3-9c41-ec7670f8b2af)](https://youtu.be/H59KHb27HPg)
