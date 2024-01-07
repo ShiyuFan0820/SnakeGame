@@ -19,8 +19,8 @@
     - Define a method to add score if the snake get the bean.
 5. Detect the collision with the walls and snake tail.
 
-_**Notifications:**_  
-_1. There are two methods to set the screen size, one is the method `turtle.screensize(canvwidth=None, canvheight=None, bg=None)`, another is the method `turtle.setup(width=_CFG["width"], height=_CFG["height"], startx=_CFG["leftright"], starty=_CFG["topbottom"])`, the difference between these two is that the `screensize()` method will not alter the drawing window, you have to use the scrollbars observe hidden parts of the canvas._
+_**Note:**_  
+_There are two methods to set the screen size, one is the method `turtle.screensize(canvwidth=None, canvheight=None, bg=None)`, another is the method `turtle.setup(width=_CFG["width"], height=_CFG["height"], startx=_CFG["leftright"], starty=_CFG["topbottom"])`, the difference between these two is that the `screensize()` method will not alter the drawing window, you have to use the scrollbars observe hidden parts of the canvas._
 
 **Try to write the code in your pycharm and play the game! The completed code of this game is in the [main_code.py](https://github.com/ShiyuFan0820/SnakeGame/blob/main/main_code.py) file. (The turtle function seems to be only available on pycharm)**
 
