@@ -1,7 +1,7 @@
 # Snake Game
 
 **What will be made in the end (Click the picture to watch the video):**
-[![](https://github.com/ShiyuFan0820/PythonLearningNote/assets/149340606/5db6a996-cb48-43a3-9c41-ec7670f8b2af)](https://youtu.be/H59KHb27HPg)
+[![](https://github.com/ShiyuFan0820/SnakeGame/assets/149340606/36d17043-307d-41e7-839b-94a2e7630d0b")(https://youtu.be/H59KHb27HPg)
 
 **Follow the instructions below:**
 1. Import the `Turtle` and `Screen` class from `turtle`.
@@ -22,5 +22,5 @@
 _**Note:**_  
 _There are two methods to set the screen size, one is the method `turtle.screensize(canvwidth=None, canvheight=None, bg=None)`, another is the method `turtle.setup(width=_CFG["width"], height=_CFG["height"], startx=_CFG["leftright"], starty=_CFG["topbottom"])`, the difference between these two is that the `screensize()` method will not alter the drawing window, you have to use the scrollbars observe hidden parts of the canvas._
 
-**Try to write the code in your pycharm and play the game! The completed code of this game is in the [main_code.py](https://github.com/ShiyuFan0820/SnakeGame/blob/main/main_code.py) file. (The turtle function seems to be only available on pycharm)**
+**Try to write the code in your pycharm and play the game! The completed code of this game is in the [main.py](https://github.com/ShiyuFan0820/SnakeGame/blob/main/main.py) file. (The turtle function seems to be only available on pycharm)**
 
