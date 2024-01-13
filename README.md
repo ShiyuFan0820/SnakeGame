@@ -1,7 +1,12 @@
 # Snake Game
 
-**What will be made in the end (Click the picture to watch the video):**
-[![](https://github.com/ShiyuFan0820/SnakeGame/assets/149340606/36d17043-307d-41e7-839b-94a2e7630d0b")](https://youtu.be/H59KHb27HPg)
+**What will be made in the end:**
+
+<div align=center>
+<img width="630" alt="image" src="https://github.com/ShiyuFan0820/SnakeGame/assets/149340606/b9a66f1f-a16c-4256-9ad7-6f3a6ff8c867">
+</div>
+
+[Snake Game -- Click the picture to watch the video](https://youtu.be/H59KHb27HPg)
 
 **Follow the instructions below:**
 1. Import the `Turtle` and `Screen` class from `turtle`.
